@@ -12,4 +12,4 @@ def guess(num):
         else:
             print(f"Congratulations! you guessed the number {random_number} correctly!")
 
-guess(10)
+guess(50)
