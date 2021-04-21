@@ -10,6 +10,6 @@ def guess(num):
         elif temp > random_number:
             print("The number entered is higher than the number. Try again...")
         else:
-            print(f"Congratulations! you guessed the number {random_number} correctly!")
+            print(f"Congratulations! you guessed the number {random_number} correctly!!")
 
 guess(50)
